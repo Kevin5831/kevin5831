@@ -1,4 +1,10 @@
   <div align="center">
+   
+   ![Contributions](https://streak-stats.demolab.com?user=jastin5831&theme=tokyonight) 
+    
+  </div>
+  
+  <div align="center">
       
    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjastin5831&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
     ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
@@ -7,11 +13,7 @@
   
    </div>
     
-   <div align="center">
    
-   ![Contributions](https://streak-stats.demolab.com?user=jastin5831&theme=tokyonight) 
-    
-  </div>
   
   <p align="center">
     <a href="https://github.com/jastin5831">
