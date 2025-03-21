@@ -6,12 +6,6 @@
    ![Followers](https://img.shields.io/github/followers/kevin5831?label=Followers&style=social)
   
    </div>
-    
-   <div align="center">
-   
-   ![Contributions](https://streak-stats.demolab.com?user=kevin5831&theme=tokyonight) 
-    
-  </div>
   
   <p align="center">
     <a href="https://github.com/kevin5831">
@@ -24,7 +18,7 @@
 
   | Language Overview  | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Stats](https://github-readme-stats.vercel.app/api?username=kevin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Contributions](https://streak-stats.demolab.com?user=kevin5831&theme=tokyonight)  |
 
   </div>
   
