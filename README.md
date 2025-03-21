@@ -15,7 +15,7 @@
   
   <p align="center">
     <a href="https://github.com/kevin5831">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1500&center=true&width=1000&lines=I'm + Jastin! + Senior+Full-Stack+Engineer + | + FinTech + API+Integration + Specialist" alt="Typing SVG" /0>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1500&center=true&width=1000&lines=I'm + Kevin! + Senior+Full-Stack+Engineer + | + FinTech + API+Integration + Specialist" alt="Typing SVG" /0>
     </a>
   </p>
     
