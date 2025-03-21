@@ -1,22 +1,20 @@
   <div align="center">
-   
-   ![Contributions](https://streak-stats.demolab.com?user=jastin5831&theme=tokyonight) 
-    
-  </div>
-  
-  <div align="center">
       
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjastin5831&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
-  ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg) 
-  ![Stars](https://img.shields.io/github/stars/jastin5831?label=Stars&style=social)
-  ![Followers](https://img.shields.io/github/followers/jastin5831?label=Followers&style=social)
+   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevin5831&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+   ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
+   ![Stars](https://img.shields.io/github/stars/kevin5831?label=Stars&style=social)
+   ![Followers](https://img.shields.io/github/followers/kevin5831?label=Followers&style=social)
   
-  </div>
+   </div>
     
+   <div align="center">
    
+   ![Contributions](https://streak-stats.demolab.com?user=kevin5831&theme=tokyonight) 
+    
+  </div>
   
   <p align="center">
-    <a href="https://github.com/jastin5831">
+    <a href="https://github.com/kevin5831">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1500&center=true&width=1000&lines=I'm + Jastin! + Senior+Full-Stack+Engineer + | + FinTech + API+Integration + Specialist" alt="Typing SVG" /0>
     </a>
   </p>
@@ -26,12 +24,12 @@
 
   | Language Overview  | In detail |
   |--------------------|-----------|
-  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=jastin5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Stats](https://github-readme-stats.vercel.app/api?username=jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin5831&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8) | ![Stats](https://github-readme-stats.vercel.app/api?username=kevin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
   </div>
   
   <div id="language and tools" align="center">
-    <a href="https://github.com/jastin5831">
+    <a href="https://github.com/kevin5831">
       <img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Language+  and  + Tools + Which + I + used + to + Developing" alt="Typing SVG" />
     </a>
     <br>
@@ -155,5 +153,5 @@
   <hr>
   
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jastin5831" alt="jastin5831" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kevin5831" alt="kevin5831" />
   </div>
